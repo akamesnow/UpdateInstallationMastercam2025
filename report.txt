@@ -1,20 +1,8 @@
-Version :1.0.0.0
-Removed File: D:\GitHub\Ficam\Ficam\2-Mastercam\Instalation MCAM\2025\Installation_Mastercam2025\.gitattributes
-Removed File: D:\GitHub\Ficam\Ficam\2-Mastercam\Instalation MCAM\2025\Installation_Mastercam2025\.gitignore
-New File: D:\Git\Code\InstallationMastercam\InstallationMastercam\bin\x64\Debug\net7.0-windows10.0.19041.0\Mastercam folders\Updates\Up5\Test.txt
-Removed File: D:\GitHub\Ficam\Ficam\2-Mastercam\Instalation MCAM\2025\Installation_Mastercam2025\Mastercam folders\Updates\Up5\2024Update5.msp
-Removed Directory: D:\GitHub\Ficam\Ficam\2-Mastercam\Instalation MCAM\2025\Installation_Mastercam2025\.git
-
 Version :1.0.0.1
 Removed File: D:\GitHub\Ficam\Ficam\2-Mastercam\Instalation MCAM\2025\Installation_Mastercam2025\.gitattributes
 Removed File: D:\GitHub\Ficam\Ficam\2-Mastercam\Instalation MCAM\2025\Installation_Mastercam2025\.gitignore
-New File: D:\Git\Code\InstallationMastercam\InstallationMastercam\bin\x64\Debug\net7.0-windows10.0.19041.0\Ficam\Applications\TNCremo\TNCremo.msi
-New File: D:\Git\Code\InstallationMastercam\InstallationMastercam\bin\x64\Debug\net7.0-windows10.0.19041.0\Ficam\Fichiers à copier\temp\Mastercam_Installer.msi
-New File: D:\Git\Code\InstallationMastercam\InstallationMastercam\bin\x64\Debug\net7.0-windows10.0.19041.0\Mastercam folders\Extentions\MoldServ\MoldplusLicenseServer-6_0_0.msi
-Modified: D:\Git\Code\InstallationMastercam\InstallationMastercam\bin\x64\Debug\net7.0-windows10.0.19041.0\Mastercam folders\Updates\Up5\Test.txt -> D:\GitHub\Ficam\Ficam\2-Mastercam\Instalation MCAM\2025\Installation_Mastercam2025\Mastercam folders\Updates\Up5\Test.txt
+New File: D:\Git\Code\InstallationMastercam\InstallationMastercam\bin\x64\Debug\net7.0-windows10.0.19041.0\Mastercam folders\Updates\Up3\2024Update2.msp
+New File: D:\Git\Code\InstallationMastercam\InstallationMastercam\bin\x64\Debug\net7.0-windows10.0.19041.0\Mastercam folders\Updates\Up5\Test.txt
 Removed File: D:\GitHub\Ficam\Ficam\2-Mastercam\Instalation MCAM\2025\Installation_Mastercam2025\Mastercam folders\Updates\Up5\2024Update5.msp
-Modified: D:\Git\Code\InstallationMastercam\InstallationMastercam\bin\x64\Debug\net7.0-windows10.0.19041.0\win10-x64\InstallationMastercam.dll -> D:\GitHub\Ficam\Ficam\2-Mastercam\Instalation MCAM\2025\Installation_Mastercam2025\win10-x64\InstallationMastercam.dll
-Modified: D:\Git\Code\InstallationMastercam\InstallationMastercam\bin\x64\Debug\net7.0-windows10.0.19041.0\win10-x64\InstallationMastercam.exe -> D:\GitHub\Ficam\Ficam\2-Mastercam\Instalation MCAM\2025\Installation_Mastercam2025\win10-x64\InstallationMastercam.exe
-Modified: D:\Git\Code\InstallationMastercam\InstallationMastercam\bin\x64\Debug\net7.0-windows10.0.19041.0\win10-x64\InstallationMastercam.pdb -> D:\GitHub\Ficam\Ficam\2-Mastercam\Instalation MCAM\2025\Installation_Mastercam2025\win10-x64\InstallationMastercam.pdb
 Removed Directory: D:\GitHub\Ficam\Ficam\2-Mastercam\Instalation MCAM\2025\Installation_Mastercam2025\.git
 
