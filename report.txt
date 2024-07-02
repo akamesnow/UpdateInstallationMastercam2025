@@ -1,0 +1,4 @@
+
+Version :1.0.0.0
+Removed File: D:\GitHub\Ficam\Ficam\2-Mastercam\Instalation MCAM\2025\Installation Mastercam2024 by ficam\Mastercam folders\Updates\Up5\2024Update5.msp
+
