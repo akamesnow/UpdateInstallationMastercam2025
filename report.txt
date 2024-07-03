@@ -1,7 +1,6 @@
 Version :1.0.0.1
-New File: D:\GitHub\Ficam\Ficam\2-Mastercam\Instalation MCAM\2025\Installation_Mastercam2025\Ficam\Applications\CAMSim_Setup.exe
-Removed File: D:\GitHub\Ficam\Ficam\2-Mastercam\Instalation MCAM\2025\Installation_Mastercam2025\Mastercam folders\Updates\Up3\2024Update2.msp
-Removed File: D:\GitHub\Ficam\Ficam\2-Mastercam\Instalation MCAM\2025\Installation_Mastercam2025\Mastercam folders\Updates\Up5\2024Update5.msp
-New File: D:\GitHub\Ficam\Ficam\2-Mastercam\Instalation MCAM\2025\Installation_Mastercam2025\Mastercam folders\Updates\Up7\Ajouté.txt
+New File: Mastercam folders\Updates\Up2\New.txt
+Modified: Mastercam folders\Updates\Up7\Ajouté.txt
+New File: Mastercam folders\Updates\Up8\Nouveau Document texte.txt
 Removed Directory: D:\GitHub\Ficam\Ficam\2-Mastercam\Instalation MCAM\2025\Installation_Mastercam2025\.git
 
