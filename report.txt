@@ -1,8 +1,4 @@
-
 Version :1.0.0.1
-Removed File: D:\GitHub\Ficam\Ficam\2-Mastercam\Instalation MCAM\2025\Installation_Mastercam2025\.gitattributes
-Removed File: D:\GitHub\Ficam\Ficam\2-Mastercam\Instalation MCAM\2025\Installation_Mastercam2025\.gitignore
-Removed File: D:\GitHub\Ficam\Ficam\2-Mastercam\Instalation MCAM\2025\Installation_Mastercam2025\Mastercam folders\Updates\Up5\2024Update5.msp
-Removed File: D:\GitHub\Ficam\Ficam\2-Mastercam\Instalation MCAM\2025\Installation_Mastercam2025\Mastercam folders\Updates\Up7\Nouveau Document texte.txt
+New File: D:\GitHub\Ficam\Ficam\2-Mastercam\Instalation MCAM\2025\Installation_Mastercam2025\Mastercam folders\Updates\Up6\Nouveau Document texte.txt
 Removed Directory: D:\GitHub\Ficam\Ficam\2-Mastercam\Instalation MCAM\2025\Installation_Mastercam2025\.git
 
