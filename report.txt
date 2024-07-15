@@ -1,5 +1,3 @@
 Version :1.0.0.1
-Removed File: .gitattributes
-Removed File: .gitignore
 Removed Directory: D:\GitHub\Ficam\Ficam\2-Mastercam\Instalation MCAM\2025\Installation_Mastercam2025\.git
 
