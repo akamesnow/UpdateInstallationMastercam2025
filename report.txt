@@ -1,0 +1,5 @@
+Version :1.0.0.1
+New File: Mastercam folders\Updates\Up5\2024Update5.msp
+New File: Mastercam folders\Updates\Up7\UP7.txt
+New File: Mastercam folders\Updates\Up8\UP8.txt
+
