@@ -1,4 +1,4 @@
-Version :1.0.0.5
+Version :1.0.0.6
 New File: Mastercam folders\Updates\Up6\Nouveau Document texte.txt
 Modified: Mastercam folders\Updates\Up7\Nouveau Document texte.txt
 Removed File: Mastercam folders\Updates\Up8\Nouveau Document texte.txt
