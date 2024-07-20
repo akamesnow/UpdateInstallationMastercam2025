@@ -3,3 +3,11 @@ New File: Mastercam folders\Updates\Up5\2024Update5.msp
 New File: Mastercam folders\Updates\Up7\UP7.txt
 New File: Mastercam folders\Updates\Up8\UP8.txt
 
+Version :1.0.0.2
+New File: Mastercam folders\Updates\Test\Test.txt
+Removed File: Mastercam folders\Updates\Up7\UP7.txt
+Removed File: Mastercam folders\Updates\Up8\UP8.txt
+Modified: win10-x64\InstallationMastercam.dll
+Modified: win10-x64\InstallationMastercam.exe
+Modified: win10-x64\InstallationMastercam.pdb
+
