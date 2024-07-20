@@ -1,20 +1,5 @@
-Version :1.0.0.2
-Removed File: Nouveau Document texte.txt
-Removed File: Tracking
-Removed File: Mastercam folders\Updates\Up7\UP7.txt
-Removed File: Mastercam folders\Updates\Up8\UP8.txt
-
-Version :1.0.0.3
-New File: Mastercam folders\Updates\Up7\Nouveau Document texte.txt
-New File: Mastercam folders\Updates\Up8\Nouveau Document texte.txt
-Removed Directory: D:\GitHub\Ficam\Ficam\2-Mastercam\Instalation MCAM\2025\Installation_Mastercam2025\Mastercam folders\Updates\Test
-Modified: win10-x64\InstallationMastercam.dll
-Modified: win10-x64\InstallationMastercam.exe
-Modified: win10-x64\InstallationMastercam.pdb
 
 Version :1.0.0.4
-Modified: Mastercam folders\Updates\Up8\Nouveau Document texte.txt
-Removed Directory: D:\GitHub\Ficam\Ficam\2-Mastercam\Instalation MCAM\2025\Installation_Mastercam2025\Mastercam folders\Updates\Test
 Modified: win10-x64\InstallationMastercam.dll
 Modified: win10-x64\InstallationMastercam.exe
 Modified: win10-x64\InstallationMastercam.pdb
