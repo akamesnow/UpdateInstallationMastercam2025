@@ -8,3 +8,8 @@ Modified: win10-x64\InstallationMastercam.dll
 Modified: win10-x64\InstallationMastercam.exe
 Modified: win10-x64\InstallationMastercam.pdb
 
+Version :1.0.1.0
+Modified: win10-x64\InstallationMastercam.dll
+Modified: win10-x64\InstallationMastercam.exe
+Modified: win10-x64\InstallationMastercam.pdb
+
