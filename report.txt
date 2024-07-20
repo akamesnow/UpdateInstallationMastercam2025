@@ -12,3 +12,10 @@ Modified: win10-x64\InstallationMastercam.dll
 Modified: win10-x64\InstallationMastercam.exe
 Modified: win10-x64\InstallationMastercam.pdb
 
+Version :1.0.0.4
+Modified: Mastercam folders\Updates\Up8\Nouveau Document texte.txt
+Removed Directory: D:\GitHub\Ficam\Ficam\2-Mastercam\Instalation MCAM\2025\Installation_Mastercam2025\Mastercam folders\Updates\Test
+Modified: win10-x64\InstallationMastercam.dll
+Modified: win10-x64\InstallationMastercam.exe
+Modified: win10-x64\InstallationMastercam.pdb
+
