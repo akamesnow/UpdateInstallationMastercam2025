@@ -1,1 +1,6 @@
 Version :1.0.0.1
+Version :1.0.0.2
+Modified: win10-x64\InstallationMastercam.dll
+Modified: win10-x64\InstallationMastercam.exe
+Modified: win10-x64\InstallationMastercam.pdb
+
