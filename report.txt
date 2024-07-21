@@ -20,3 +20,15 @@ Modified: win10-x64\InstallationMastercam.dll
 Modified: win10-x64\InstallationMastercam.exe
 Modified: win10-x64\InstallationMastercam.pdb
 
+Version :1.0.0.3
+New File: Mastercam folders\Updates\Up2\2024Update2.msp
+New File: Mastercam folders\Updates\Up3\2024Update3.msp
+New File: Mastercam folders\Updates\Up4\2024Update4.msp
+New File: Mastercam folders\Updates\Up5\2024Update5.msp
+New File: Mastercam folders\Updates\Up6\2024Update6.msp
+New File: Mastercam folders\Updates\Up7\Nouveau Document texte.txt
+New File: Mastercam folders\Updates\Up8\Nouveau Document texte.txt
+Modified: win10-x64\InstallationMastercam.dll
+Modified: win10-x64\InstallationMastercam.exe
+Modified: win10-x64\InstallationMastercam.pdb
+
