@@ -18,5 +18,5 @@ Version :1.0.0.5
 Modified: win10-x64\InstallationMastercam.dll
 Modified: win10-x64\InstallationMastercam.exe
 Modified: win10-x64\InstallationMastercam.pdb
-Modified: Ficam\Fichiers à copier\Shared\lathe\Tools\Lathe_mm.tooldb
+Modified: Ficam\Fichiers à copier\Shared\mill\Tools\Mill_mm.tooldb
 
