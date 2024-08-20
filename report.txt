@@ -1,1 +1,10 @@
 V1.0.0.1
+Version :1.0.0.2
+New File: Ficam\Fichiers à copier\Shared\mill\Tools\Emuge-trochoidal-tools_mm et DONNEES_DE_COUPES V2024.tooldb
+New File: Ficam\Fichiers à copier\Shared\mill\Tools\ISCAR_All_In_One_mm et DONNEES_DE_COUPES V2020.tooldb
+New File: Ficam\Fichiers à copier\Shared\mill\Tools\ISCAR_ChatterFree_Titanium_mm et DONNEES_DE_COUPES V2025.tooldb
+New File: Ficam\Fichiers à copier\Shared\mill\Tools\SandvikPluraHD_mm et DONNEES_DE_COUPES V2024.tooldb
+Modified: win10-x64\InstallationMastercam.dll
+Modified: win10-x64\InstallationMastercam.exe
+Modified: win10-x64\InstallationMastercam.pdb
+
