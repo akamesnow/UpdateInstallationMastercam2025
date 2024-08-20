@@ -1,4 +1,3 @@
-V1.0.0.1
 Version :1.0.0.2
 New File: Ficam\Fichiers à copier\Shared\mill\Tools\Emuge-trochoidal-tools_mm et DONNEES_DE_COUPES V2024.tooldb
 New File: Ficam\Fichiers à copier\Shared\mill\Tools\ISCAR_All_In_One_mm et DONNEES_DE_COUPES V2020.tooldb
