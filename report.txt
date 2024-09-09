@@ -7,22 +7,6 @@ Modified: win10-x64\InstallationMastercam.dll
 Modified: win10-x64\InstallationMastercam.exe
 Modified: win10-x64\InstallationMastercam.pdb
 
-Version :1.0.0.4
-Removed File: D:\GitHub\Ficam\Ficam\3-Mastercam\Instalation MCAM\2025\Installation_Mastercam2025\.gitattributes
-Removed File: D:\GitHub\Ficam\Ficam\3-Mastercam\Instalation MCAM\2025\Installation_Mastercam2025\Mastercam.exe
-Modified: D:\GitHub\Ficam\Ficam\3-Mastercam\Instalation MCAM\2025\Installation_Mastercam2025\Ficam\Interface\Config Dark\My Mastercam 2025\Mastercam\MastercamSimulatorDefaults.xml
-Modified: D:\GitHub\Ficam\Ficam\3-Mastercam\Instalation MCAM\2025\Installation_Mastercam2025\Ficam\Interface\Config Dark\My Mastercam 2025\Mastercam\Mill Turn\MastercamSimulatorDefaults-MT.xml
-Modified: D:\GitHub\Ficam\Ficam\3-Mastercam\Instalation MCAM\2025\Installation_Mastercam2025\win10-x64\InstallationMastercam.Core.dll
-Modified: D:\GitHub\Ficam\Ficam\3-Mastercam\Instalation MCAM\2025\Installation_Mastercam2025\win10-x64\InstallationMastercam.Core.pdb
-Modified: D:\GitHub\Ficam\Ficam\3-Mastercam\Instalation MCAM\2025\Installation_Mastercam2025\win10-x64\InstallationMastercam.deps.json
-Modified: D:\GitHub\Ficam\Ficam\3-Mastercam\Instalation MCAM\2025\Installation_Mastercam2025\win10-x64\InstallationMastercam.dll
-Modified: D:\GitHub\Ficam\Ficam\3-Mastercam\Instalation MCAM\2025\Installation_Mastercam2025\win10-x64\InstallationMastercam.exe
-Modified: D:\GitHub\Ficam\Ficam\3-Mastercam\Instalation MCAM\2025\Installation_Mastercam2025\win10-x64\InstallationMastercam.pdb
-Modified: D:\GitHub\Ficam\Ficam\3-Mastercam\Instalation MCAM\2025\Installation_Mastercam2025\win10-x64\Microsoft.Windows.SDK.NET.dll
-Modified: D:\GitHub\Ficam\Ficam\3-Mastercam\Instalation MCAM\2025\Installation_Mastercam2025\win10-x64\WinRT.Runtime.dll
-Removed Directory: D:\GitHub\Ficam\Ficam\3-Mastercam\Instalation MCAM\2025\Installation_Mastercam2025\.git
-Removed Directory: D:\GitHub\Ficam\Ficam\3-Mastercam\Instalation MCAM\2025\Installation_Mastercam2025\VerifyUpdate
-
 Version :1.0.0.5
 Modified: win10-x64\InstallationMastercam.dll
 Modified: win10-x64\InstallationMastercam.exe
