@@ -23,3 +23,8 @@ Modified: D:\GitHub\Ficam\Ficam\3-Mastercam\Instalation MCAM\2025\Installation_M
 Removed Directory: D:\GitHub\Ficam\Ficam\3-Mastercam\Instalation MCAM\2025\Installation_Mastercam2025\.git
 Removed Directory: D:\GitHub\Ficam\Ficam\3-Mastercam\Instalation MCAM\2025\Installation_Mastercam2025\VerifyUpdate
 
+Version :1.0.0.5
+Modified: win10-x64\InstallationMastercam.dll
+Modified: win10-x64\InstallationMastercam.exe
+Modified: win10-x64\InstallationMastercam.pdb
+
