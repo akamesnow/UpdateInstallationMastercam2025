@@ -26,3 +26,28 @@ Modified: win10-x64\InstallationMastercam.dll
 Modified: win10-x64\InstallationMastercam.exe
 Modified: win10-x64\InstallationMastercam.pdb
 
+Version :1.0.0.8
+New File: Ficam\Applications\CamSim_M2025.exe
+New File: Ficam\Applications\Instal_CamReport M2025.exe
+New File: Ficam\Applications\SerrageFicam_M2025.exe
+New File: Ficam\Applications\Setup_Tolerance_ISO_M2025.exe
+Removed File: Ficam\Applications\CAMSim_Setup.exe
+Removed File: Ficam\Applications\Instal_CamReport.exe
+Removed File: Ficam\Applications\SerrageFicam_M2024.exe
+Removed Directory: D:\GitHub\Ficam\Ficam\3-Mastercam\Instalation MCAM\2025\Installation_Mastercam2025\Ficam\Applications\TOLERANCE
+New File: Ficam\Fichiers à copier\chooks\ExtratSTL.dll
+New File: Ficam\Fichiers à copier\chooks\ExtratSTL.ft
+New File: Ficam\Fichiers à copier\Shared\lathe\Posts\TimeOp.dll
+New File: Ficam\Fichiers à copier\Shared\mill\Posts\TimeOp.dll
+New File: Ficam\Fichiers à copier\Shared\Router\Posts\TimeOp.dll
+New File: Ficam\Fichiers à copier\Shared\wire\Posts\TimeOp.dll
+Modified: Ficam\Interface\Config Dark\My Mastercam 2025\Mastercam\mwMachSim_IOF.ini
+Modified: Ficam\Interface\Config Dark\My Mastercam 2025\Mastercam\CONFIG\Mastercam.Workspace
+New File: Ficam\Interface\Config Dark\My Mastercam 2025\Mastercam\Mill\NCI\T.nci
+New File: Ficam\Interface\Config Dark with CamSim\Mastercam.Workspace
+Modified: Ficam\Interface\Config Standard\My Mastercam 2025\Mastercam\CONFIG\Mastercam.Workspace
+New File: Ficam\Interface\Config Standard with CamSim\Mastercam.Workspace
+Modified: win10-x64\InstallationMastercam.dll
+Modified: win10-x64\InstallationMastercam.exe
+Modified: win10-x64\InstallationMastercam.pdb
+
