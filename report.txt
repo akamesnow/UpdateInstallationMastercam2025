@@ -21,3 +21,8 @@ Modified: win10-x64\InstallationMastercam.pdb
 Modified: win10-x64\resources.pri
 Modified: win10-x64\Views\Installation_de_MastercamPage.xbf
 
+Version :1.0.0.7
+Modified: win10-x64\InstallationMastercam.dll
+Modified: win10-x64\InstallationMastercam.exe
+Modified: win10-x64\InstallationMastercam.pdb
+
