@@ -22,3 +22,14 @@ Modified: win10-x64\InstallationMastercam.dll
 Modified: win10-x64\InstallationMastercam.exe
 Modified: win10-x64\InstallationMastercam.pdb
 
+Version :1.0.0.6
+Removed Directory: D:\GitHub\Ficam\Ficam\3-Mastercam\Instalation MCAM\2025\Installation_Mastercam2025\Ficam\Applications\TOLERANCE
+New File: Ficam\Documentations\TUTO VIDEO\DEMO\Video Démo\DESIGN.mp4
+New File: Ficam\Documentations\TUTO VIDEO\DEMO\Video Démo\FRAISAGE 3D BASE 2D-3D POUR 3-4 ET 5 AXES POSTIONNES.mp4
+New File: Ficam\Documentations\TUTO VIDEO\DEMO\Video Démo\FRAISAGE 3D Plus.mp4
+New File: Ficam\Documentations\TUTO VIDEO\DEMO\Video Démo\FRAISAGE ENTRY 2D-3 AXES SIMPLE.mp4
+New File: Ficam\Documentations\TUTO VIDEO\DEMO\Video Démo\TOURNAGE.mp4
+Modified: win10-x64\InstallationMastercam.dll
+Modified: win10-x64\InstallationMastercam.exe
+Modified: win10-x64\InstallationMastercam.pdb
+
