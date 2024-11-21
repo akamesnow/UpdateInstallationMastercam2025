@@ -3,3 +3,15 @@ Modified: win10-x64\InstallationMastercam.dll
 Modified: win10-x64\InstallationMastercam.exe
 Modified: win10-x64\InstallationMastercam.pdb
 
+Version :1.0.0.4
+Removed Directory: D:\GitHub\Ficam\Ficam\3-Mastercam\Instalation MCAM\2025\Installation_Mastercam2025\Ficam\Applications\TOLERANCE
+Removed File: Mastercam folders\Extentions\CIMCO\CIMCOEdit_20230113.exe
+Removed File: Mastercam folders\Licences\Wibu\Driver de licence CodeMeter\CodeMeterRuntime_7_60.exe
+Modified: win10-x64\InstallationMastercam.dll
+Modified: win10-x64\InstallationMastercam.exe
+Modified: win10-x64\InstallationMastercam.pdb
+Modified: win10-x64\resources.pri
+New File: win10-x64\Assets\DemoHomePage\demohome.png
+Removed File: win10-x64\Assets\DemoHomePage\MC2024 demohome.png
+Modified: win10-x64\Views\DemoHomePage.xbf
+
