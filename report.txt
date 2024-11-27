@@ -46,3 +46,10 @@ Modified: win10-x64\InstallationMastercam.dll
 Modified: win10-x64\InstallationMastercam.exe
 Modified: win10-x64\InstallationMastercam.pdb
 
+Version :1.0.0.9
+Removed Directory: D:\GitHub\Ficam\Ficam\3-Mastercam\Instalation MCAM\2025\Installation_Mastercam2025\Ficam\Applications\TOLERANCE
+Modified: Ficam\Documentations\Migration\Guide d'installation.pdf
+Modified: win10-x64\InstallationMastercam.dll
+Modified: win10-x64\InstallationMastercam.exe
+Modified: win10-x64\InstallationMastercam.pdb
+
