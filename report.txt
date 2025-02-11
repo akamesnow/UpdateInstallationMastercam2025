@@ -100,9 +100,9 @@ Removed File: Ficam\Fichiers à copier\chooks\Clamp.dll
 Removed File: Ficam\Fichiers à copier\chooks\Clamp.ft
 Removed File: Ficam\Fichiers à copier\chooks\ExtratSTL.dll
 Removed File: Ficam\Fichiers à copier\chooks\ExtratSTL.ft
-New File: Ficam\Executable après installation\ReadMe.txt
-New File: Ficam\Fichiers à copier\Startup\M2025.bat
-New File: Ficam\Fichiers à copier\temp\temp.txt
+New File:Ficam\Executable après installation\ReadMe.txt
+New File:Ficam\Fichiers à copier\Startup\M2025.bat
+New File:Ficam\Fichiers à copier\temp\temp.txt
 Modified: win10-x64\InstallationMastercam.dll
 Modified: win10-x64\InstallationMastercam.exe
 Modified: win10-x64\InstallationMastercam.pdb
