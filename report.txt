@@ -104,6 +104,7 @@ New File: Ficam\Executable après installation\ReadMe.txt
 New File: Ficam\Fichiers à copier\Startup\M2025.bat
 New File: Ficam\Fichiers à copier\temp\temp.txt
 New File: Mastercam folders\Updates\Up5\2025Update5.msp
+New File: Ficam\Fichiers à copier\Shared\common\reports\SST\ReadMe.txt
 Modified: Ficam\Applications\CamSim_M2025.exe
 Modified: Ficam\Applications\Instal_CamReport M2025.exe
 Modified: win10-x64\InstallationMastercam.dll
