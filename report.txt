@@ -113,3 +113,17 @@ Modified: win10-x64\InstallationMastercam.pdb
 
 
 
+Version :1.0.0.15
+Modified: Ficam\Applications\CamSim_M2025.exe
+Removed Directory: D:\GitHub\Ficam\Ficam\3-Mastercam\Instalation MCAM\2025\Installation_Mastercam2025\Ficam\Applications\TOLERANCE
+New File: Ficam\Fichiers à copier\chooks\CamReport.dll
+New File: Ficam\Fichiers à copier\chooks\CamReport.ft
+New File: Ficam\Fichiers à copier\chooks\CamSimMasterGUI_R.dll
+New File: Ficam\Fichiers à copier\chooks\CamSimMasterGUI_R.ft
+New File: Ficam\Fichiers à copier\chooks\Clamp.dll
+New File: Ficam\Fichiers à copier\chooks\Clamp.ft
+Modified: Ficam\Fichiers à copier\Startup\M2025.bat
+Modified: win10-x64\InstallationMastercam.dll
+Modified: win10-x64\InstallationMastercam.exe
+Modified: win10-x64\InstallationMastercam.pdb
+
